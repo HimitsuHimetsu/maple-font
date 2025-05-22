@@ -2,7 +2,7 @@
   "family_name": "Maple Mono",
   "use_hinted": true,
   "pool_size": 4,
-  "ligature": false,
+  "ligature": true,
   "feature_freeze": {
     "cv01": "enable",
     "cv02": "ignore",
@@ -34,7 +34,7 @@
     "ss02": "ignore",
     "ss03": "ignore",
     "ss04": "ignore",
-    "ss05": "ignore",
+    "ss05": "enable",
     "ss06": "ignore",
     "ss07": "ignore",
     "ss08": "ignore",
